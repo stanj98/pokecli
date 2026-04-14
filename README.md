@@ -20,7 +20,9 @@ go install github.com/stanj98/pokecli@latest
 git clone https://github.com/stanj98/pokecli.git
 cd pokecli
 go build -o poke-cli
+```
 
 ## Usage
 ```bash
 poke-cli <command> [flags]
+```
