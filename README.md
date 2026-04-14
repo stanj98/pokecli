@@ -21,5 +21,6 @@ git clone https://github.com/stanj98/pokecli.git
 cd pokecli
 go build -o poke-cli
 
-```usage
+## Usage
+```bash
 poke-cli <command> [flags]
